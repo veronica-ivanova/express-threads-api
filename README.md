@@ -13,7 +13,7 @@
 1. Склонировать репозиторий с сервером
 
 ```
-https://github.com/veronica-ivanova/express-threads-api.git
+git clone https://github.com/veronica-ivanova/express-threads-api.git
 ```
 
 2. Перейти в корневую директорию проекта.
